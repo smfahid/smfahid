@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm S.M.Fahid</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-- 🔭 I’m currently working on [Azalio](https://oscar.azal.io/)
+- 🔭 I’m currently working on [Delineate](https://delineate.pro/)
 
 - 🌱 I’m currently learning **Svelt,Python,Devops**
 
-- 💬 Ask me about **Fullstack,React,Nextjs,NodeJs,Nestjs**
+- 💬 Ask me about **Fullstack,React,Nextjs,NodeJs,Nestjs,MongoDb,Mysql**
 
 - 📫 How to reach me **esanfahid@gmail.com**
 
