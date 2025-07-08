@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,AI,Devops**
 
-- 💬 Ask me about **Fullstack,React,Nextjs,NodeJs,Nestjs,MongoDb,Mysql**
+- 💬 Ask me about **Fullstack,React,Nextjs,NodeJs,Nestjs,MongoDb,Mysql,PostgresQl,Supabase**
 
 - 📫 How to reach me **esanfahid@gmail.com**
 
