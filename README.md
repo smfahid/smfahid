@@ -37,8 +37,6 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
 <p align="left">
 <b>Languages</b><br/>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/></a>
