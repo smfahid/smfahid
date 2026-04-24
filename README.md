@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-🚀 Founding Engineer building AI-powered products <br/>
 💡 Passionate about scalable systems, LLMs, and clean architecture
 </p>
 
@@ -13,7 +12,6 @@
 - 🌱 Currently diving deeper into **AI, Machine Learning, and DevOps**  
 - 💬 Ask me about **Fullstack Development, React, Next.js, Node.js, NestJS, APIs, Databases**  
 - 📫 Reach me at **esanfahid@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1vNoEKgyAtbCket7VtezhoxOraZoaRv-o/view?usp=sharing)  
 - ⚡ Fun fact: **I play football, cricket, badminton & love building MVPs in my free time**  
 
 ---
